@@ -55,7 +55,7 @@ function setup() {
 	ground3.shapeColor="red";
 	ground3.visible = true;
 
-	people = createSprite(400,570);
+	people = createSprite(400,580);
 	people.addImage(peopleImg);
 	people.scale = 0.4;
 	people.visible = true;
